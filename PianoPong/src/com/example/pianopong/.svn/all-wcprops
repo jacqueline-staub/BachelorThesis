@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hilliges/AIT/!svn/ver/275/trunk/Code/PianoPong/src/com/example/pianopong
+END
+RendererGame.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hilliges/AIT/!svn/ver/315/trunk/Code/PianoPong/src/com/example/pianopong/RendererGame.java
+END
+MainActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hilliges/AIT/!svn/ver/314/trunk/Code/PianoPong/src/com/example/pianopong/MainActivity.java
+END
+CustomListViewAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/hilliges/AIT/!svn/ver/322/trunk/Code/PianoPong/src/com/example/pianopong/CustomListViewAdapter.java
+END
+GLSurf.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hilliges/AIT/!svn/ver/276/trunk/Code/PianoPong/src/com/example/pianopong/GLSurf.java
+END
+LevelManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hilliges/AIT/!svn/ver/322/trunk/Code/PianoPong/src/com/example/pianopong/LevelManager.java
+END
+GUIAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hilliges/AIT/!svn/ver/275/trunk/Code/PianoPong/src/com/example/pianopong/GUIAgent.java
+END
+Note.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hilliges/AIT/!svn/ver/275/trunk/Code/PianoPong/src/com/example/pianopong/Note.java
+END
+Recorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hilliges/AIT/!svn/ver/322/trunk/Code/PianoPong/src/com/example/pianopong/Recorder.java
+END
+Sprite.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hilliges/AIT/!svn/ver/322/trunk/Code/PianoPong/src/com/example/pianopong/Sprite.java
+END
+Song.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hilliges/AIT/!svn/ver/277/trunk/Code/PianoPong/src/com/example/pianopong/Song.java
+END
+FourierTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/hilliges/AIT/!svn/ver/275/trunk/Code/PianoPong/src/com/example/pianopong/FourierTransform.java
+END
+StoreActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/hilliges/AIT/!svn/ver/315/trunk/Code/PianoPong/src/com/example/pianopong/StoreActivity.java
+END
+Word.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hilliges/AIT/!svn/ver/286/trunk/Code/PianoPong/src/com/example/pianopong/Word.java
+END
+ListLevelViewItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/hilliges/AIT/!svn/ver/322/trunk/Code/PianoPong/src/com/example/pianopong/ListLevelViewItem.java
+END
+DifficultyActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/hilliges/AIT/!svn/ver/283/trunk/Code/PianoPong/src/com/example/pianopong/DifficultyActivity.java
+END
+FFT.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/hilliges/AIT/!svn/ver/275/trunk/Code/PianoPong/src/com/example/pianopong/FFT.java
+END
+Token.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hilliges/AIT/!svn/ver/314/trunk/Code/PianoPong/src/com/example/pianopong/Token.java
+END
+LevelPickerActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/hilliges/AIT/!svn/ver/314/trunk/Code/PianoPong/src/com/example/pianopong/LevelPickerActivity.java
+END
+MusicController.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hilliges/AIT/!svn/ver/322/trunk/Code/PianoPong/src/com/example/pianopong/MusicController.java
+END
+AcknowledgementActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/hilliges/AIT/!svn/ver/314/trunk/Code/PianoPong/src/com/example/pianopong/AcknowledgementActivity.java
+END
+ListViewItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hilliges/AIT/!svn/ver/314/trunk/Code/PianoPong/src/com/example/pianopong/ListViewItem.java
+END
+GameActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hilliges/AIT/!svn/ver/322/trunk/Code/PianoPong/src/com/example/pianopong/GameActivity.java
+END
+CustomLevelListViewAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/hilliges/AIT/!svn/ver/322/trunk/Code/PianoPong/src/com/example/pianopong/CustomLevelListViewAdapter.java
+END

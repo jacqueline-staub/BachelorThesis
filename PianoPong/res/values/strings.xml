@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PianoPong</string>
+    <string name="action_settings">Settings</string>
+    <string name="SG">Start Game</string>
+    <string name="ACK">Acknowledgement</string>
+    <string name="ST">Store</string>
+    <string name="title_activity_highscore">HighscoreActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_acknowledgement">AcknowledgementActivity</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_activity_audio__record">Audio_Record</string>
+    <string name="title_activity_difficulty">DifficultyActivity</string>
+    <string name="beginner">beginner</string>
+    <string name="easy">easy</string>
+    <string name="medium">medium</string>
+    <string name="hard">hard</string>
+    <string name="harder">harder</string>
+    <string name="title_activity_level_picker">LevelPickerActivity</string>
+    <string name="play">play</string>
+    <string name="score">score</string>
+    <string name="delAcc">delete Account</string>
+    <string name="audioexample">Audio Example</string>
+    <string name="playnow">Play Now</string>
+
+</resources>
