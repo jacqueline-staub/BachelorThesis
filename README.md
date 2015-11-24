@@ -21,7 +21,7 @@ close to a street). A mechanism to filter noisy signals was implemented based on
 The application works best (with a hit rate of 100%) for instruments with a range of
 notes between D3 and E7. We reach a hit rate of 70% for the piano, whose pitch range starts
 at A1 and ends at G7. The main difference between our application and related research topics
-is, that our application works o low quality microphones and runs only on the limited resources
+is, that our application works on low quality microphones and runs only on the limited resources
 provided by the phone. Our results demonstrate that the hardware of today’s mobile phones is
-already fast enough to perform time-consuming operations. Even fast enough to give the user
+already fast enough to perform time-consuming operations almost real-time. Even fast enough to give the user
 the impression of an instantaneous feed-back.
